@@ -1,12 +1,16 @@
 # GitHub Buddy Glimpse
 V1.01
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/371e59a6-ec3e-470f-8d8c-0961ecf82120/deploy-status)](https://app.netlify.com/sites/gitbuddyglimpse/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2a61e864-2bb4-472e-bafe-16f54d6631d2/deploy-status)](https://app.netlify.com/sites/githubbuddyglimpse/deploys)
+
 
 
 ![Example3](/examples/logo.png)
 
-GitHub Buddy Glimpse is a project website that allows you to easily view the entire GitHub profile of a user just by entering their username. It provides an efficient way to display the user's repositories and basic information in a user-friendly manner.
+
+Link to deployed website =>   https://githubbuddyglimpse.netlify.app
+
+<a href='https://githubbuddyglimpse.netlify.app/'>GitHub Buddy Glimpse </a>is a project website that allows you to easily view the entire GitHub profile of a user just by entering their username. It provides an efficient way to display the user's repositories and basic information in a user-friendly manner.
 
 ## Features
 
